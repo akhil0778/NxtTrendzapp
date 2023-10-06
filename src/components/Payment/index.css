@@ -24,7 +24,7 @@
 }
 
 .payment-heading {
-  font-family: DM Sans;
+  font-family: 'Roboto';
   font-style: normal;
   font-weight: 500;
   font-size: 24px;
@@ -33,7 +33,7 @@
   color: #1e293b;
 }
 .payment-text {
-  font-family: DM Sans;
+  font-family: 'Roboto';
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
